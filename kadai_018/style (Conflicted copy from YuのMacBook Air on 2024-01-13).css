@@ -13,34 +13,37 @@
   width: 800px;
   height: 800px;
   margin: 20px auto;
-  background-color: #ffd9df;
-  position: relative;
+  background-color: #87ceeb;
 }
-#middle div {
-  width: 200px;
-  height: 200px;
+.middle div {
+  width: 800px;
+  height: 800px;
+  margin: 20px auto; 
   background-color: #87ceeb;
 }
 #middle-child01 {
   position: absolute;
   top: 100px;
   left: 100px; 
+  background-color: aquamarine;
 }
 #middle-child02 {
   position: absolute;
   top: 300px;
   left: 300px;
+  background-color: aquamarine;
 }
 #middle-child03 {
   position: absolute;
   top: 500px;
   left: 500px;
+  background-color: aquamarine;
 }
 #bottom {
   width: 800px;
   height:300px;
   margin: auto;
-  background-color: #e5dcf0;
+  background-color: #87ceeb;
 }
 #bottom div {
   width: 400;
